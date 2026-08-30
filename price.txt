@@ -1,1 +1,1 @@
-price = 150
+price = 300
